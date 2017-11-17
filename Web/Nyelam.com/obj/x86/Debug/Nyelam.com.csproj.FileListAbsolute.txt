@@ -1,0 +1,10 @@
+D:\PROJECT\NYELAM\Webview\Web\Nyelam.com\bin\Debug\Nyelam.com.exe
+D:\PROJECT\NYELAM\Webview\Web\Nyelam.com\bin\Debug\Nyelam.com.pdb
+D:\PROJECT\NYELAM\Webview\Web\Nyelam.com\obj\x86\Debug\Nyelam.com.Form1.resources
+D:\PROJECT\NYELAM\Webview\Web\Nyelam.com\obj\x86\Debug\Nyelam.com.FormNoInternetConnection.resources
+D:\PROJECT\NYELAM\Webview\Web\Nyelam.com\obj\x86\Debug\Nyelam.com.FormSlashScreen.resources
+D:\PROJECT\NYELAM\Webview\Web\Nyelam.com\obj\x86\Debug\Nyelam.com.MainForm.resources
+D:\PROJECT\NYELAM\Webview\Web\Nyelam.com\obj\x86\Debug\Nyelam.com.Properties.Resources.resources
+D:\PROJECT\NYELAM\Webview\Web\Nyelam.com\obj\x86\Debug\Nyelam.com.csproj.GenerateResource.Cache
+D:\PROJECT\NYELAM\Webview\Web\Nyelam.com\obj\x86\Debug\Nyelam.com.exe
+D:\PROJECT\NYELAM\Webview\Web\Nyelam.com\obj\x86\Debug\Nyelam.com.pdb

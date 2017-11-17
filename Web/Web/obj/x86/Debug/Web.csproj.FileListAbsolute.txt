@@ -1,0 +1,9 @@
+D:\PROJECT\NYELAM\Webview\Web\Web\bin\Debug\Web.exe
+D:\PROJECT\NYELAM\Webview\Web\Web\bin\Debug\Web.pdb
+D:\PROJECT\NYELAM\Webview\Web\Web\obj\x86\Debug\Web.Form1.resources
+D:\PROJECT\NYELAM\Webview\Web\Web\obj\x86\Debug\Web.FormNoInternetConnection.resources
+D:\PROJECT\NYELAM\Webview\Web\Web\obj\x86\Debug\Web.FormSlashScreen.resources
+D:\PROJECT\NYELAM\Webview\Web\Web\obj\x86\Debug\Web.Properties.Resources.resources
+D:\PROJECT\NYELAM\Webview\Web\Web\obj\x86\Debug\Web.csproj.GenerateResource.Cache
+D:\PROJECT\NYELAM\Webview\Web\Web\obj\x86\Debug\Web.exe
+D:\PROJECT\NYELAM\Webview\Web\Web\obj\x86\Debug\Web.pdb

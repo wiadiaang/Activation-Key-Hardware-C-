@@ -1,0 +1,8 @@
+D:\PROJECT\NYELAM\Webview\HardwareID\bin\Debug\HardwareID.exe
+D:\PROJECT\NYELAM\Webview\HardwareID\bin\Debug\HardwareID.pdb
+D:\PROJECT\NYELAM\Webview\HardwareID\obj\Debug\HardwareID.Form1.resources
+D:\PROJECT\NYELAM\Webview\HardwareID\obj\Debug\HardwareID.FormActivationID.resources
+D:\PROJECT\NYELAM\Webview\HardwareID\obj\Debug\HardwareID.Properties.Resources.resources
+D:\PROJECT\NYELAM\Webview\HardwareID\obj\Debug\HardwareID.csproj.GenerateResource.Cache
+D:\PROJECT\NYELAM\Webview\HardwareID\obj\Debug\HardwareID.exe
+D:\PROJECT\NYELAM\Webview\HardwareID\obj\Debug\HardwareID.pdb
